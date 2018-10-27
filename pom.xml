@@ -11,7 +11,7 @@ this stuff is worth it, you can buy me a beer in return Daniel Bimschas
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.danbim</groupId>
-    <artifactId>template-guice-jersey-tomcat</artifactId>
+    <artifactId>Jersey-Tomcat</artifactId>
     <packaging>war</packaging>
     <version>1.0</version>
     <name>Jersey-Tomcat</name>
